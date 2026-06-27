@@ -1,0 +1,6 @@
+{
+  "name": "Football Tracker",
+  "description": "Track live football scores, standings, transfers, and team news in real-time with customizable notifications and AI-powered match analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
